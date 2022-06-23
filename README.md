@@ -9,7 +9,7 @@ Passionate about tech world, I've been studying about programming languages sinc
 
 💻   Currently stack: HTML, CSS and JavaScript (but always learning something new);
 
-📘   Studying: ReactJS, Node.js, React Native & Typescript
+📘   Studying: PHP, MySQL & Node.JS
 
 💬   About me: In my free time, I love to watch soccer (⚽️), basketball (memphis grizzlies fan), watch movies and reading. 
 
